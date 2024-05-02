@@ -4,12 +4,17 @@
 O projeto proposto é uma plataforma online que conecta agricultores locais diretamente aos consumidores da região. A iniciativa busca resolver vários problemas enfrentados pelos agricultores e pela comunidade em geral.
   1. Desintermediação e Apoio à Economia Local:
     ● Elimina intermediários, permitindo que os agricultores vendam seus produtos diretamente aos consumidores.
+
     ● Fortalece a economia local ao promover o comércio justo e apoiar os produtores da região.
+    
     ● Alimentação Saudável e Sustentável:
+    
     ● Oferece acesso a alimentos frescos e de qualidade, produzidos de forma sustentável e transparente.
-  2. Redução do Desperdício:
+  3. Redução do Desperdício:
+     
     ● Reduz o desperdício de alimentos ao conectar produtores e consumidores de forma direta.
-  3. Conscientização sobre Agricultura Sustentável:
+  5. Conscientização sobre Agricultura Sustentável:
+     
     ● Educa os consumidores sobre a importância de apoiar agricultores locais e optar por alimentos produzidos de forma sustentável.
 
 ### ODS que o projeto apoia
