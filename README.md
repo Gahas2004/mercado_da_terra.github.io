@@ -12,7 +12,7 @@ O projeto proposto é uma plataforma online que conecta agricultores locais dire
   3. Conscientização sobre Agricultura Sustentável:
     ● Educa os consumidores sobre a importância de apoiar agricultores locais e optar por alimentos produzidos de forma sustentável.
 
-###ODS que o projeto apoia
+### ODS que o projeto apoia
 O projeto (Mercado da Terra) está alinhado principalmente com o Objetivo de Desenvolvimento Sustentável (ODS) número 2, que é "Fome Zero e Agricultura Sustentável". Além disso, pode se alinhar também com o ODS 12, que é "Consumo e Produção Sustentáveis".
 
 ### Disciplina
