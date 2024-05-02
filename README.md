@@ -1,4 +1,4 @@
-# EMercado da Terra
+# Mercado da Terra
 
 ### Projeto
 O projeto proposto é uma plataforma online que conecta agricultores locais diretamente aos consumidores da região. A iniciativa busca resolver vários problemas enfrentados pelos agricultores e pela comunidade em geral.
